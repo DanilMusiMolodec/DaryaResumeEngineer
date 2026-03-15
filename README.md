@@ -235,7 +235,7 @@
             font-size: 13.5px;
         }
 
-        /* имитация вставки изображения из doc (media/image1.png) — текстовая заглушка */
+        /* имитация вставки изображения из doc (image1.png) — текстовая заглушка */
         .image-placeholder {
             display: inline-flex;
             align-items: center;
@@ -269,7 +269,7 @@
             <div class="education-detail" style="display: flex; flex-wrap: wrap; align-items: center; gap: 10px;">
                 <span class="univ-name">Санкт-Петербургский Государственный Университет Аэрокосмического Приборостроения (ГУАП)</span>
                 <!-- плейсхолдер для вставки рисунка из задания (image1) -->
-                <span class="image-placeholder" style="width: auto; height: 0.8in;">Picture background media/image1.png</span>
+                <span class="image-placeholder" style="width: auto; height: 0.8in;">Picture background image1.png</span>
             </div>
             <div class="univ-meta">
                 <span><strong>Направление:</strong> 27.03.04 — Управление и информатика в технических системах</span>
